@@ -93,11 +93,9 @@ I am particularly interested in opportunities involving software engineering, ba
 
 ## GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jjalvesp&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjalvesp&layout=compact&theme=github_dark&hide_border=true" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjalvesp&layout=compact&theme=tokyonight" />
+</p>
 
 </div>
 
