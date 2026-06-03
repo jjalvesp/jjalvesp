@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/josiany-banner.gif" width="100%" alt="Josiany Alves">
+<img autoplay src="assets/josiany-banner.gif" width="100%" alt="Josiany Alves">
 
 <br>
 
