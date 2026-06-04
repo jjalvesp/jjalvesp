@@ -146,14 +146,12 @@ Com controle de acesso por perfil, cada usuário visualiza apenas os clientes em
 ## GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jjalvesp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjalvesp&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjalvesp&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade no GitHub" />
+  <strong>Meus repositórios mostram minha evolução prática em desenvolvimento web, APIs, interfaces e sistemas full stack.</strong>
+  <br />
+  <br />
+  <a href="https://github.com/jjalvesp?tab=repositories">
+    <img src="https://img.shields.io/badge/Ver_repositórios-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositórios" />
+  </a>
 </div>
 
 ## Contato
@@ -166,3 +164,11 @@ Com controle de acesso por perfil, cada usuário visualiza apenas os clientes em
     <img src="https://img.shields.io/badge/Vamos_conversar-0B1220?style=for-the-badge&logo=gmail&logoColor=white" alt="Vamos conversar" />
   </a>
 </div>
+
+<!--
+Personalização rápida:
+- Troque "seu-email@exemplo.com" pelo seu e-mail real.
+- Confirme se o LinkedIn está correto.
+- Substitua "Aplicação full stack" pelo nome do seu projeto principal quando quiser.
+- Se algum ícone externo não carregar no GitHub, ele pode ser trocado por um badge do shields.io.
+-->
