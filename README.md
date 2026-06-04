@@ -1,15 +1,5 @@
 <div align="center">
-<<<<<<< HEAD
   <img src="./assets/josiany-banner.gif" alt="Apresentação de Josiany Alves" width="100%" />
-=======
-
-<img autoplay src="assets/josiany-banner.gif" width="100%" alt="Josiany Alves">
-
-<br>
-
-Software Engineering Student • Backend Development • AI-Assisted Development • Systems & Infrastructure
-
->>>>>>> acc393723c05930af0f8d65578d738c2bb3ad79c
 </div>
 
 <br />
