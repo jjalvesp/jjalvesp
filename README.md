@@ -20,9 +20,46 @@
 
 ## Sobre mim
 
-Meu nome é **Josiany Alves**, estudante de **Engenharia de Software** e desenvolvedora em formação, focada em criar soluções digitais com visual bem cuidado, código organizado e experiência de uso clara. Gosto de transformar ideias em interfaces funcionais, aprender tecnologias novas e construir projetos que comuniquem profissionalismo desde o primeiro contato.
+Meu nome é **Josiany Alves**, estudante de **Engenharia de Software** e desenvolvedora focada em aplicações web full stack. Construo sistemas com atenção à experiência do usuário, organização do código e estrutura necessária para que o projeto possa crescer com segurança.
 
-Tenho interesse por desenvolvimento web, boas práticas de programação, design de interfaces e aplicações full stack. Atualmente venho trabalhando com projetos que conectam **APIs bem estruturadas**, **interfaces modernas** e **bancos de dados relacionais**, sempre buscando clareza, organização e evolução contínua.
+Meu foco está em soluções para **gestão operacional**, **organização de processos**, **painéis administrativos**, **APIs**, **dashboards** e **centralização de informações**. Gosto de entender o problema antes de pensar na tela ou no código, porque um bom sistema precisa resolver a rotina de quem usa.
+
+<div align="center">
+  <strong>Desenvolvimento web | Sistemas internos | APIs | Dashboards | Gestão de processos</strong>
+</div>
+
+## O que posso desenvolver
+
+| Solução | Como posso ajudar |
+| --- | --- |
+| **Sistemas internos** | Ferramentas para controlar clientes, tarefas, equipes, materiais, histórico e rotina operacional. |
+| **Painéis administrativos** | Dashboards e telas de gestão para acompanhar indicadores, cadastros, status e demandas. |
+| **APIs e backends** | Estrutura com FastAPI, autenticação, regras de negócio, validação de dados e integração com PostgreSQL. |
+| **Interfaces web** | Aplicações em React, TypeScript e CSS próprio, com foco em clareza, responsividade e uso real. |
+| **Deploy e ambiente** | Separação entre desenvolvimento e produção, variáveis de ambiente e publicação em Render e Netlify. |
+
+## Diferenciais
+
+| Ponto | Na prática |
+| --- | --- |
+| **Visão de produto** | Penso no fluxo completo: quem usa, o que precisa fazer e onde o sistema reduz trabalho manual. |
+| **Organização** | Estruturo telas, rotas, modelos, validações e banco de dados para manter o projeto compreensível. |
+| **Comunicação visual** | Cuido da apresentação da interface para que o sistema transmita profissionalismo e seja fácil de usar. |
+| **Aprendizado contínuo** | Evoluo a stack conforme o projeto exige, mantendo foco em soluções simples, úteis e sustentáveis. |
+
+## IA no desenvolvimento
+
+Uso inteligência artificial como apoio no processo de criação de aplicações, principalmente para acelerar pesquisa técnica, estruturar ideias, revisar trechos de código, melhorar documentação e explorar alternativas de implementação.
+
+Na prática, a IA entra como uma ferramenta de produtividade: ajuda a prototipar fluxos, comparar abordagens, identificar possíveis melhorias e transformar requisitos em tarefas mais claras. A decisão final, a validação da regra de negócio, os testes e a responsabilidade técnica continuam sendo parte do meu processo como desenvolvedora.
+
+| Uso de IA | Aplicação prática |
+| --- | --- |
+| **Planejamento** | Quebrar funcionalidades em etapas, organizar escopo e antecipar pontos de atenção. |
+| **Prototipação** | Explorar ideias de interface, fluxos de tela e estrutura inicial de componentes. |
+| **Código** | Apoiar refatorações, revisar padrões, encontrar inconsistências e melhorar legibilidade. |
+| **Documentação** | Criar descrições mais claras para projetos, APIs, regras e decisões técnicas. |
+| **Produtividade** | Reduzir tempo em tarefas repetitivas sem abrir mão de revisão, testes e critério técnico. |
 
 ## Stack principal
 
@@ -68,6 +105,7 @@ Tenho interesse por desenvolvimento web, boas práticas de programação, design
 | **Front-end** | Interfaces em React com TypeScript, Vite, CSS próprio e componentes reutilizáveis. |
 | **Banco de dados** | Modelagem relacional, PostgreSQL, compatibilidade com Supabase e uso opcional de recursos como pgvector. |
 | **Deploy** | Separação por ambientes, configuração de produção e publicação em Render e Netlify. |
+| **Produto** | Entendimento da operação, organização de fluxos e construção de funcionalidades úteis para o dia a dia. |
 
 ## Projeto em destaque
 
@@ -77,7 +115,7 @@ Tenho interesse por desenvolvimento web, boas práticas de programação, design
       <td width="45%">
         <strong>Midnight OS</strong>
         <br />
-        Plataforma de gestão operacional para agências de marketing
+        Sistema full stack de gestão operacional para agências de marketing.
       </td>
       <td width="55%">
         <strong>Objetivo</strong>
@@ -88,7 +126,9 @@ Tenho interesse por desenvolvimento web, boas práticas de programação, design
   </table>
 </div>
 
-O **Midnight OS** organiza o fluxo interno da agência desde o onboarding do cliente até a execução das demandas. A plataforma reúne cadastro de clientes, kickoff digital, times responsáveis, kanban por cliente, conversa interna, arquivos, links, histórico de ações, notificações e dashboard administrativo.
+O **Midnight OS** é meu projeto mais relevante: uma plataforma criada para organizar a operação de agências que atendem provedores de internet e negócios locais. Ele cobre o fluxo interno desde o onboarding do cliente até o acompanhamento das demandas no dia a dia.
+
+A plataforma reúne cadastro de clientes, kickoff digital, times responsáveis, kanban por cliente, conversa interna, arquivos, links, histórico de ações, notificações e dashboard administrativo.
 
 Com controle de acesso por perfil, cada usuário visualiza apenas os clientes em que está envolvido, enquanto administradores acompanham a operação de forma ampla. O projeto foi pensado para melhorar a comunicação interna, acelerar o início dos trabalhos e dar mais clareza sobre entregas, equipe e informações importantes.
 
@@ -100,6 +140,8 @@ Com controle de acesso por perfil, cada usuário visualiza apenas os clientes em
 | **Kanban** | Gestão de tarefas por cliente, com status, prioridades, prazos e comentários. |
 | **Comunicação** | Conversa interna por cliente, menções e notificações relevantes. |
 | **Administração** | Dashboard com visão geral de clientes, usuários, kickoffs, tarefas e carga por profissional. |
+
+**Stack usada no projeto:** FastAPI, SQLAlchemy, Pydantic, PostgreSQL, React, TypeScript, Vite, CSS, Radix UI, Lucide React, Render e Netlify.
 
 ## GitHub
 
@@ -117,7 +159,7 @@ Com controle de acesso por perfil, cada usuário visualiza apenas os clientes em
 ## Contato
 
 <div align="center">
-  <strong>Aberta a oportunidades, colaborações e projetos que gerem impacto real.</strong>
+  <strong>Aberta a oportunidades, projetos freelance, colaborações e soluções web bem organizadas.</strong>
   <br />
   <br />
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=josianyalvesd@gmail.com">
